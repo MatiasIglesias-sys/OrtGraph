@@ -1,0 +1,2753 @@
+Lista de mateerias:
+--------------------------
+Actitud emprendedora (4518)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+---------------------------
+Administración general (1781)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 9 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-------------------------------
+AI Enablement Engineering (8931)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+------------------------------
+AIOps (9117)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito total	
+Machine learning para análisis de datos (7678)	Crédito total	
+Machine learning para análisis de secuencias (7679)	Crédito total	
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito total	
+Machine learning para análisis de datos(7678)	Crédito total	
+Machine learning para análisis de secuencias(7679)	Crédito total	
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito total	
+Requisito cumplido
+-----------------------------------
+Álgebra lineal (2103)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+------------------------------------
+Algoritmos, estructuras de datos y lenguajes avanzados (6543)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 2 (1778)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 2(1778)	Crédito total	
+Requisito cumplido
+---------------------------------------
+Análisis de redes (4914)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Probabilidad y estadística (1780)	Crédito total	
+Redes (3838)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Probabilidad y estadística(1780)	Crédito total	
+Redes(3838)	Crédito total	
+Requisito cumplido
+-------------------------------------
+Análisis de redes sociales (6668)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+------------------------------------
+Análisis y diseño funcional (7655)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software (7669)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software(7669)	Crédito total	
+Requisito cumplido
+----------------------------------------
+Analítica para Datawarehousing (8558)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 2 (3839)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 2(3839)	Crédito parcial	
+Requisito cumplido
+----------------------------------------
+Arquitectura de sistemas (3831)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 2 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+---------------------------------------
+Arquitectura de software (3851)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2 (1778)	Crédito total	
+Bases de datos 2 (3839)	Crédito total	
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2(1778)	Crédito total	
+Bases de datos 2(3839)	Crédito total	
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Requisito cumplido
+--------------------------------------------
+Arquitectura de software en la práctica (6455)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito total	
+Machine learning para análisis de datos (7678)	Crédito total	
+Machine learning para análisis de secuencias (7679)	Crédito total	
+Los siguientes créditos:
+
+Arquitectura de software (3851)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 2 (7675)	Crédito parcial	
+El crédito total aprobado de 20 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito total	
+Machine learning para análisis de datos(7678)	Crédito total	
+Machine learning para análisis de secuencias(7679)	Crédito total	
+Los siguientes créditos:
+
+Arquitectura de software(3851)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 2(7675)	Crédito parcial	
+Requisito no cumplido
+------------------------------------------------
+Arquitectura de software para Big Data (7657)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Arquitectura de software (3851)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Arquitectura de software(3851)	Crédito total	
+Requisito no cumplido
+--------------------------------------------
+Arquitecturas de software livianas con Java (6106)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Arquitectura de software (3851)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Arquitectura de software(3851)	Crédito total	
+Requisito no cumplido
+----------------------------------------------
+Arquitecturas empresariales (7658)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Análisis y diseño funcional (7655)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Análisis y diseño funcional(7655)	Crédito parcial	
+Requisito no cumplido
+---------------------------------------------
+Arquitecturas Serverless (7902)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Arquitectura de software (3851)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Arquitectura de software(3851)	Crédito parcial	
+Requisito no cumplido
+--------------------------------------------
+Aspectos ambientales en Ingeniería (7886)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+--------------------------------------------
+Aspectos de seguridad de sistemas informáticos (4231)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+---------------------------------------------
+Base de datos relacionales (7659)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 1 (3837)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 1(3837)	Crédito total	
+Requisito cumplido
+------------------------------------------
+Bases de datos no relacionales (7466)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 2 (3839)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 2(3839)	Crédito total	
+Requisito cumplido
+-------------------------------------------
+Bases de datos 1 (3837)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Programación 2 (1743)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Programación 2(1743)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------
+Bases de datos 2 (3839)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 1 (3837)	Crédito parcial	
+Lógica para computación (6563)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 1(3837)	Crédito parcial	
+Lógica para computación(6563)	Crédito parcial	
+Requisito cumplido
+---------------------------------------
+Bases de datos 3 (3842)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 1 (3837)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 1(3837)	Crédito parcial	
+Requisito cumplido
+------------------------------------------
+Bioinformática 1 (5527)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito total	
+Requisito cumplido
+----------------------------------------
+Biología Celular (5512)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Química Biológica (5505)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Química Biológica(5505)	Crédito total	
+Requisito no cumplido
+-------------------------------------------
+Biología Molecular (5520)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Biología Celular (5512)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Biología Celular(5512)	Crédito total	
+Requisito no cumplido
+----------------------------------------
+Cálculo en una variable (7660)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+------------------------------------------
+Cálculo en varias variables (7691)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Cálculo en una variable (7660)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Cálculo en una variable(7660)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------
+Cálculo Lambda (7825)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Teoría de la computación (6452)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Teoría de la computación(6452)	Crédito total	
+Requisito no cumplido
+---------------------------------------------
+Cálculo numérico (1786)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Álgebra lineal (2103)	Crédito total	
+Cálculo en una variable (7660)	Crédito total	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Álgebra lineal(2103)	Crédito total	
+Cálculo en una variable(7660)	Crédito total	
+Requisito cumplido
+-------------------------------------------
+Cálculo vectorial (2106)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Álgebra lineal (2103)	Crédito total	
+Cálculo en una variable (7660)	Crédito total	
+Cálculo en varias variables (7691)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Álgebra lineal(2103)	Crédito total	
+Cálculo en una variable(7660)	Crédito total	
+Cálculo en varias variables(7691)	Crédito parcial	
+Requisito no cumplido
+---------------------------------------------
+Calidad en software (3904)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito total	
+Requisito cumplido
+----------------------------------------------
+Circuitos y dispositivos eléctricos 1 (7661)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------
+Comportamiento organizacional (6417)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-------------------------------------------------
+Computación e información cuántica (7662)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Álgebra lineal (2103)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Álgebra lineal(2103)	Crédito total	
+Requisito cumplido
+------------------------------------------------
+Comunicación y liderazgo (7663)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+----------------------------------------------
+Conectando cosas (7472)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Programación 2 (1743)	Crédito total	
+Taller de tecnologías 1 (7687)	Crédito total	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Programación 2(1743)	Crédito total	
+Taller de tecnologías 1(7687)	Crédito total	
+Requisito cumplido
+--------------------------------------------
+Criptografía (3055)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Matemática discreta (6580)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Matemática discreta(6580)	Crédito total	
+Requisito cumplido
+------------------------------------------
+Data mining (7664)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 1 (3837)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 1(3837)	Crédito total	
+Requisito cumplido
+-------------------------------------------
+Deep learning (7665)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Optimización con álgebra lineal (7690)	Crédito total	
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito total	
+Machine learning para análisis de datos (7678)	Crédito total	
+Machine learning para análisis de secuencias (7679)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Optimización con álgebra lineal(7690)	Crédito total	
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito total	
+Machine learning para análisis de datos(7678)	Crédito total	
+Machine learning para análisis de secuencias(7679)	Crédito total	
+Requisito no cumplido
+------------------------------------------
+Derecho de empresa (1417)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+---------------------------------------
+Desarrollo de aplicaciones escalables en la nube (6933)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Arquitectura de software (3851)	Crédito total	
+Ingeniería de software ágil 2 (7675)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Arquitectura de software(3851)	Crédito total	
+Ingeniería de software ágil 2(7675)	Crédito total	
+Requisito no cumplido
+---------------------------------------
+Desarrollo de dispositivos aéreos no tripulados (8912)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+------------------------------------------
+Desarrollo de interfaces de usuario (6872)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito total	
+Machine learning para análisis de datos (7678)	Crédito total	
+Machine learning para análisis de secuencias (7679)	Crédito total	
+Los siguientes créditos:
+
+Diseño de aplicaciones 2 (6343)	Crédito total	
+Interacción humano-computadora (7676)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito total	
+Machine learning para análisis de datos(7678)	Crédito total	
+Machine learning para análisis de secuencias(7679)	Crédito total	
+Los siguientes créditos:
+
+Diseño de aplicaciones 2(6343)	Crédito total	
+Interacción humano-computadora(7676)	Crédito total	
+Requisito no cumplido
+-------------------------------------------
+Desarrollo de productos de base tecnológica (7666)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+----------------------------------------------
+Desarrollo de software basado en el conocimiento (GX) (6275)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software (7669)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software(7669)	Crédito total	
+Requisito cumplido
+------------------------------------------------
+Desarrollo de video juegos 1 (4784)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Diseño de aplicaciones 1 (3924)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Diseño de aplicaciones 1(3924)	Crédito total	
+Requisito cumplido
+----------------------------------------------
+Desarrollo de video juegos 2 (4872)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Diseño de aplicaciones 1 (3924)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Diseño de aplicaciones 1(3924)	Crédito total	
+Requisito cumplido
+--------------------------------------------
+Desarrollo interactivo de programas certificados (5440)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Lógica para computación (6563)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Lógica para computación(6563)	Crédito total	
+Requisito cumplido
+-------------------------------------------
+Diseño centrado en el usuario (7667)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito parcial	
+Machine learning para análisis de datos (7678)	Crédito parcial	
+Machine learning para análisis de secuencias (7679)	Crédito parcial	
+El siguiente crédito:
+
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito parcial	
+Machine learning para análisis de datos(7678)	Crédito parcial	
+Machine learning para análisis de secuencias(7679)	Crédito parcial	
+El siguiente crédito:
+
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Requisito cumplido
+----------------------------------------------
+Diseño de aplicaciones 1 (3924)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito parcial	
+Bases de datos 1 (3837)	Crédito parcial	
+Fundamentos de Ingeniería de software (7669)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito parcial	
+Bases de datos 1(3837)	Crédito parcial	
+Fundamentos de Ingeniería de software(7669)	Crédito parcial	
+Requisito cumplido
+---------------------------------------------
+Diseño de aplicaciones 2 (6343)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Diseño de aplicaciones 1 (3924)	Crédito parcial	
+Fundamentos de Ingeniería de software (7669)	Crédito parcial	
+El crédito total aprobado de 9 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Diseño de aplicaciones 1(3924)	Crédito parcial	
+Fundamentos de Ingeniería de software(7669)	Crédito parcial	
+Requisito cumplido
+--------------------------------------------
+Diseño de experiencias inmersivas (7512)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Desarrollo de video juegos 1 (4784)	Crédito total	
+Desarrollo de video juegos 2 (4872)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Desarrollo de video juegos 1(4784)	Crédito total	
+Desarrollo de video juegos 2(4872)	Crédito total	
+Requisito no cumplido
+----------------------------------------------
+E-business (3846)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-----------------------------------------------
+Economía y organización empresarial (7668)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 9 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+----------------------------------------------
+Ecuaciones diferenciales (7812)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Álgebra lineal (2103)	Crédito parcial	
+Cálculo en una variable (7660)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Álgebra lineal(2103)	Crédito parcial	
+Cálculo en una variable(7660)	Crédito parcial	
+Requisito cumplido
+-------------------------------------------
+Emprendimientos dinámicos (6852)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+--------------------------------------------
+English Language Communication Skills for Industry (7144)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+---------------------------------------------
+Estrategia de negocios (6415)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+------------------------------------------
+Estructuras de datos y algoritmos 1 (1774)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Programación 2 (1743)	Crédito parcial	
+Fundamentos de computación (6449)	Crédito parcial	
+El crédito total aprobado de 2 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Programación 2(1743)	Crédito parcial	
+Fundamentos de computación(6449)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Estructuras de datos y algoritmos 2 (1778)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito parcial	
+Matemática discreta (6580)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito parcial	
+Matemática discreta(6580)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Ética y legislación profesional (4266)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Experimentación en ingeniería de software (5634)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Probabilidad y estadística (1780)	Crédito total	
+Fundamentos de Ingeniería de software (7669)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Probabilidad y estadística(1780)	Crédito total	
+Fundamentos de Ingeniería de software(7669)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Finanzas y valoración de proyectos (6411)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Física moderna (3872)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Fundamentos de sistemas ciberfísicos (7670)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Fundamentos de sistemas ciberfísicos(7670)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Física 2 (4918)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Fundamentos de sistemas ciberfísicos (7670)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Fundamentos de sistemas ciberfísicos(7670)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Fundamentos de Big Data (7692)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 2 (3839)	Crédito total	
+Diseño de aplicaciones 1 (3924)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 2(3839)	Crédito total	
+Diseño de aplicaciones 1(3924)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Fundamentos de cloud computing (8559)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Probabilidad y estadística (1780)	Crédito parcial	
+Redes (3838)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Probabilidad y estadística(1780)	Crédito parcial	
+Redes(3838)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Fundamentos de computación (6449)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Fundamentos de Ingeniería de software (7669)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Programación 2 (1743)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Programación 2(1743)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Fundamentos de Product Management (8063)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Probabilidad y estadística (1780)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Probabilidad y estadística(1780)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Fundamentos de sistemas ciberfísicos (7670)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Cálculo en una variable (7660)	Crédito parcial	
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Cálculo en una variable(7660)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Fundamentos de sistemas de información (6406)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 10 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Gestión avanzada de proyectos de software (7270)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Diseño de aplicaciones 1 (3924)	Crédito total	
+Ingeniería de software ágil 1 (7674)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Diseño de aplicaciones 1(3924)	Crédito total	
+Ingeniería de software ágil 1(7674)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Gestión de comunicación, conflictos en proyectos (5636)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+Al menos 1 de los siguientes créditos:
+
+Ética y legislación profesional (4266)	Crédito total	
+English Language Communication Skills for Industry (7144)	Crédito total	
+Comunicación y liderazgo (7663)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Al menos 1 de los siguientes créditos:		
+Ética y legislación profesional(4266)	Crédito total	
+English Language Communication Skills for Industry(7144)	Crédito total	
+Comunicación y liderazgo(7663)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Gestión de la experiencia en ingeniería de software (6011)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software (7669)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software(7669)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Gestión de operaciones (3844)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Gestión de Pymes (6005)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Gestión de servicios basados en TI (6107)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Gobernanza para Big Data (7673)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 2 (3839)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 2(3839)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Habilidades de equipo en desarrollo de software (5906)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+Al menos 1 de los siguientes créditos:
+
+Ética y legislación profesional (4266)	Crédito total	
+English Language Communication Skills for Industry (7144)	Crédito total	
+Comunicación y liderazgo (7663)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Al menos 1 de los siguientes créditos:		
+Ética y legislación profesional(4266)	Crédito total	
+English Language Communication Skills for Industry(7144)	Crédito total	
+Comunicación y liderazgo(7663)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Habilidades gerenciales en grupos de proyectos (5733)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Ética y legislación profesional (4266)	Crédito total	
+English Language Communication Skills for Industry (7144)	Crédito total	
+Comunicación y liderazgo (7663)	Crédito total	
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Al menos 1 de los siguientes créditos:		
+Ética y legislación profesional(4266)	Crédito total	
+English Language Communication Skills for Industry(7144)	Crédito total	
+Comunicación y liderazgo(7663)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Herramientas de software para Big Data (7715)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 2 (3839)	Crédito parcial	
+Diseño de aplicaciones 1 (3924)	Crédito total	
+Sistemas operativos (6409)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 2(3839)	Crédito parcial	
+Diseño de aplicaciones 1(3924)	Crédito total	
+Sistemas operativos(6409)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Implementación de seguridad en sistemas de información (8149)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos (4231)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos(4231)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Infraestructura en la nube 1 (8455)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Arquitectura de sistemas (3831)	Crédito total	
+Sistemas operativos (6409)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Arquitectura de sistemas(3831)	Crédito total	
+Sistemas operativos(6409)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Infraestructura en la nube 2 (8560)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Arquitectura de sistemas (3831)	Crédito total	
+Sistemas operativos (6409)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Arquitectura de sistemas(3831)	Crédito total	
+Sistemas operativos(6409)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Ingeniería de computación de alto rendimiento (8454)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2 (1778)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2(1778)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Ingeniería de software ágil 1 (7674)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito parcial	
+Finanzas y valoración de proyectos (6411)	Crédito parcial	
+Economía y organización empresarial (7668)	Crédito parcial	
+Los siguientes créditos:
+
+Diseño de aplicaciones 1 (3924)	Crédito parcial	
+Fundamentos de Ingeniería de software (7669)	Crédito parcial	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito parcial	
+Finanzas y valoración de proyectos(6411)	Crédito parcial	
+Economía y organización empresarial(7668)	Crédito parcial	
+Los siguientes créditos:
+
+Diseño de aplicaciones 1(3924)	Crédito parcial	
+Fundamentos de Ingeniería de software(7669)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Ingeniería de software ágil 2 (7675)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Diseño de aplicaciones 1 (3924)	Crédito total	
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Diseño de aplicaciones 1(3924)	Crédito total	
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Ingeniería de software asistida por IA generativa (9118)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Diseño de aplicaciones 2 (6343)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Diseño de aplicaciones 2(6343)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Ingeniería de software colaborativa en proyectos open source (9119)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Diseño de aplicaciones 2 (6343)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Diseño de aplicaciones 2(6343)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Innovación disruptiva (6934)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Inteligencia artificial (3876)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2 (1778)	Crédito parcial	
+Probabilidad y estadística (1780)	Crédito parcial	
+Lógica para computación (6563)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2(1778)	Crédito parcial	
+Probabilidad y estadística(1780)	Crédito parcial	
+Lógica para computación(6563)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Inteligencia Artificial generativa (8561)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito parcial	
+Machine learning para análisis de datos (7678)	Crédito parcial	
+Machine learning para análisis de secuencias (7679)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito parcial	
+Machine learning para análisis de datos(7678)	Crédito parcial	
+Machine learning para análisis de secuencias(7679)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Interacción humano-computadora (7676)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito parcial	
+Machine learning para análisis de datos (7678)	Crédito parcial	
+Machine learning para análisis de secuencias (7679)	Crédito parcial	
+El siguiente crédito:
+
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito parcial	
+Machine learning para análisis de datos(7678)	Crédito parcial	
+Machine learning para análisis de secuencias(7679)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Introducción a la robótica aplicada (5716)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Sistemas operativos (6409)	Crédito total	
+Fundamentos de sistemas ciberfísicos (7670)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Sistemas operativos(6409)	Crédito total	
+Fundamentos de sistemas ciberfísicos(7670)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Introducción a la verificación de inteligencia artificial (8468)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Machine learning para sistemas inteligentes (7349)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Machine learning para sistemas inteligentes(7349)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Las revoluciones tecnológicas (8069)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Lenguajes y compiladores (1793)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito parcial	
+Lógica para computación (6563)	Crédito parcial	
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito parcial	
+Lógica para computación(6563)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Lógica de la programación (5907)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Lógica para computación (6563)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Lógica para computación(6563)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Lógica formal (7677)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Lógica para computación (6563)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Lógica para computación(6563)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Lógica para computación (6563)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Fundamentos de computación (6449)	Crédito parcial	
+El crédito total aprobado de 2 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Fundamentos de computación(6449)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Machine learning en producción (8848)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito no cumplido
+-----------------------------------------------------------
+Machine learning para análisis de datos (7678)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito total	
+Probabilidad y estadística (1780)	Crédito total	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito total	
+Probabilidad y estadística(1780)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Machine learning para análisis de secuencias (7679)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito total	
+Probabilidad y estadística (1780)	Crédito total	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito total	
+Probabilidad y estadística(1780)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Machine learning para inteligencia artificial (8849)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito no cumplido
+-----------------------------------------------------------
+Machine learning para sistemas inteligentes (7349)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito total	
+Probabilidad y estadística (1780)	Crédito total	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito total	
+Probabilidad y estadística(1780)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Madurez en la Gestión de Seguridad de la Información (8835)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos (4231)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos(4231)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Marketing de servicios (1875)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Marketing, mercados y productos digitales (7680)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Matemática discreta (6580)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Media lab (7194)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Metodología de la investigación (6110)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Métodos cuantitativos para los negocios (7681)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Probabilidad y estadística (1780)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Probabilidad y estadística(1780)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Modelado 3D (5564)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Desarrollo de video juegos 1 (4784)	Crédito total	
+Programación de videojuegos (5640)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Desarrollo de video juegos 1(4784)	Crédito total	
+Programación de videojuegos(5640)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Modelos de deep learning (8850)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito no cumplido
+-----------------------------------------------------------
+Modelos de negocios de software (8420)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 2 (3839)	Crédito total	
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Teoría de la computación (6452)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 20 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 2(3839)	Crédito total	
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Teoría de la computación(6452)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Modelos formales de programación concurrente (8909)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Música y sonido (5128)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Desarrollo de video juegos 1 (4784)	Crédito total	
+Programación de videojuegos (5640)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Desarrollo de video juegos 1(4784)	Crédito total	
+Programación de videojuegos(5640)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Optimización con álgebra lineal (7690)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Álgebra lineal (2103)	Crédito total	
+Cálculo en una variable (7660)	Crédito total	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Álgebra lineal(2103)	Crédito total	
+Cálculo en una variable(7660)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Pasantía profesional (7682)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 2 (3839)	Crédito total	
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Teoría de la computación (6452)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 20 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 2(3839)	Crédito total	
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Teoría de la computación(6452)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Pasantía académica (8419)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 2 (3839)	Crédito total	
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Teoría de la computación (6452)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 20 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 2(3839)	Crédito total	
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Teoría de la computación(6452)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Probabilidad y estadística (1780)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Álgebra lineal (2103)	Crédito total	
+Cálculo en una variable (7660)	Crédito total	
+El crédito total aprobado de 2 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Álgebra lineal(2103)	Crédito total	
+Cálculo en una variable(7660)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Process Science (8770)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Programación competitiva (8562)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 2 (1778)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 2(1778)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Programación con tipos dependientes (5735)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Lógica para computación (6563)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Lógica para computación(6563)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Programación de contratos inteligentes en Blockchain (8382)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Tecnologías Blockchain para contratos inteligentes (7716)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Tecnologías Blockchain para contratos inteligentes(7716)	Crédito parcial	
+Requisito no cumplido
+-----------------------------------------------------------
+Programación de redes (6498)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Diseño de aplicaciones 1 (3924)	Crédito parcial	
+Sistemas operativos (6409)	Crédito parcial	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Diseño de aplicaciones 1(3924)	Crédito parcial	
+Sistemas operativos(6409)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Programación de videojuegos (5640)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Diseño de aplicaciones 1 (3924)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Diseño de aplicaciones 1(3924)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Programación funcional avanzada (8834)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito parcial	
+Lógica para computación (6563)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito parcial	
+Lógica para computación(6563)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Programación y análisis de sistemas paralelos y distribuidos (7683)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Programación 1 (1479)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Programación 2 (1743)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Programación 1 (1479)	Crédito parcial	
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Programación 1(1479)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Proyecto (1798)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Web mining (3437)	Crédito parcial	
+Bases de datos 3 (3842)	Crédito parcial	
+Bases de datos no relacionales (7466)	Crédito parcial	
+Arquitectura de software para Big Data (7657)	Crédito parcial	
+Data mining (7664)	Crédito parcial	
+Gobernanza para Big Data (7673)	Crédito parcial	
+Fundamentos de Big Data (7692)	Crédito parcial	
+Herramientas de software para Big Data (7715)	Crédito parcial	
+Al menos 1 de los siguientes créditos:
+
+Aspectos de seguridad de sistemas informáticos (4231)	Crédito parcial	
+Seguridad en aplicaciones (6147)	Crédito parcial	
+Tecnologías aplicadas a la seguridad de la información (7271)	Crédito parcial	
+Tópicos avanzados en Seguridad (8082)	Crédito parcial	
+Implementación de seguridad en sistemas de información (8149)	Crédito parcial	
+Al menos 1 de los siguientes créditos:
+
+Actitud emprendedora (4518)	Crédito total	
+Emprendimientos dinámicos (6852)	Crédito total	
+Innovación disruptiva (6934)	Crédito total	
+Taller de innovación y emprendedurismo (7686)	Crédito total	
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito parcial	
+Machine learning para análisis de datos (7678)	Crédito parcial	
+Machine learning para análisis de secuencias (7679)	Crédito parcial	
+Los siguientes créditos:
+
+Arquitectura de software (3851)	Crédito parcial	
+Inteligencia artificial (3876)	Crédito parcial	
+Ingeniería de software ágil 2 (7675)	Crédito parcial	
+Taller de tecnologías 2 (7688)	Crédito total	
+Al menos 1 de los siguientes créditos:
+
+Trabajo integrador (6435)	Crédito total	
+Pasantía profesional (7682)	Crédito total	
+Pasantía académica (8419)	Crédito total	
+Modelos de negocios de software (8420)	Crédito total	
+Taller de iniciación académica (8583)	Crédito total	
+El crédito total aprobado de 30 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Web mining(3437)	Crédito parcial	
+Bases de datos 3(3842)	Crédito parcial	
+Bases de datos no relacionales(7466)	Crédito parcial	
+Arquitectura de software para Big Data(7657)	Crédito parcial	
+Data mining(7664)	Crédito parcial	
+Gobernanza para Big Data(7673)	Crédito parcial	
+Fundamentos de Big Data(7692)	Crédito parcial	
+Herramientas de software para Big Data(7715)	Crédito parcial	
+Al menos 1 de los siguientes créditos:		
+Aspectos de seguridad de sistemas informáticos(4231)	Crédito parcial	
+Seguridad en aplicaciones(6147)	Crédito parcial	
+Tecnologías aplicadas a la seguridad de la información(7271)	Crédito parcial	
+Tópicos avanzados en Seguridad(8082)	Crédito parcial	
+Implementación de seguridad en sistemas de información(8149)	Crédito parcial	
+Al menos 1 de los siguientes créditos:		
+Actitud emprendedora(4518)	Crédito total	
+Emprendimientos dinámicos(6852)	Crédito total	
+Innovación disruptiva(6934)	Crédito total	
+Taller de innovación y emprendedurismo(7686)	Crédito total	
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito parcial	
+Machine learning para análisis de datos(7678)	Crédito parcial	
+Machine learning para análisis de secuencias(7679)	Crédito parcial	
+Los siguientes créditos:
+
+Arquitectura de software(3851)	Crédito parcial	
+Inteligencia artificial(3876)	Crédito parcial	
+Ingeniería de software ágil 2(7675)	Crédito parcial	
+Taller de tecnologías 2(7688)	Crédito total	
+Al menos 1 de los siguientes créditos:		
+Trabajo integrador(6435)	Crédito total	
+Pasantía profesional(7682)	Crédito total	
+Pasantía académica(8419)	Crédito total	
+Modelos de negocios de software(8420)	Crédito total	
+Taller de iniciación académica(8583)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Prueba de software (3935)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software (7669)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Fundamentos de Ingeniería de software(7669)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Química Biológica (5505)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Recursos humanos (1410)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Redes (3838)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Sistemas operativos (6409)	Crédito parcial	
+El crédito total aprobado de 9 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Sistemas operativos(6409)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Redes de alto tráfico (7684)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Redes (3838)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Redes(3838)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Seguridad en aplicaciones (6147)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos (4231)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos(4231)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Señales y sistemas de tiempo continuo (7685)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Cálculo en varias variables (7691)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Cálculo en varias variables(7691)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Sistemas contables (3835)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Sistemas de información (6414)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Administración general (1781)	Crédito total	
+Finanzas y valoración de proyectos (6411)	Crédito total	
+Economía y organización empresarial (7668)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Administración general(1781)	Crédito total	
+Finanzas y valoración de proyectos(6411)	Crédito total	
+Economía y organización empresarial(7668)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Sistemas de información en la nube (8085)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 1 (3837)	Crédito total	
+Fundamentos de Ingeniería de software (7669)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 1(3837)	Crédito total	
+Fundamentos de Ingeniería de software(7669)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Sistemas de soporte de decisión (3856)
+Previas para inscripción o crédito parcial
+Al menos 1 de los siguientes créditos:
+
+Machine learning para sistemas inteligentes (7349)	Crédito total	
+Machine learning para análisis de datos (7678)	Crédito total	
+Machine learning para análisis de secuencias (7679)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Al menos 1 de los siguientes créditos:		
+Machine learning para sistemas inteligentes(7349)	Crédito total	
+Machine learning para análisis de datos(7678)	Crédito total	
+Machine learning para análisis de secuencias(7679)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Sistemas digitales y microprocesadores (7205)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Sistemas operativos (6409)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Arquitectura de sistemas (3831)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Arquitectura de sistemas(3831)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Taller de deep learning (8851)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito no cumplido
+-----------------------------------------------------------
+Taller de iniciación académica (8583)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 2 (3839)	Crédito total	
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Teoría de la computación (6452)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 20 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 2(3839)	Crédito total	
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Teoría de la computación(6452)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Taller de innovación y emprendedurismo (7686)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Taller de programación (7107)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito parcial	
+Fundamentos de Ingeniería de software (7669)	Crédito parcial	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito parcial	
+Fundamentos de Ingeniería de software(7669)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Taller de tecnologías 1 (7687)
+Previas para inscripción o crédito parcial
+No tiene previas.
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Taller de tecnologías 2 (7688)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2 (1778)	Crédito total	
+Bases de datos 1 (3837)	Crédito total	
+Redes (3838)	Crédito parcial	
+Diseño de aplicaciones 1 (3924)	Crédito parcial	
+Fundamentos de sistemas ciberfísicos (7670)	Crédito parcial	
+Taller de tecnologías 1 (7687)	Crédito total	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 2(1778)	Crédito total	
+Bases de datos 1(3837)	Crédito total	
+Redes(3838)	Crédito parcial	
+Diseño de aplicaciones 1(3924)	Crédito parcial	
+Fundamentos de sistemas ciberfísicos(7670)	Crédito parcial	
+Taller de tecnologías 1(7687)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Técnicas de negociación para equipos de proyecto (7473)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+Al menos 1 de los siguientes créditos:
+
+Ética y legislación profesional (4266)	Crédito total	
+English Language Communication Skills for Industry (7144)	Crédito total	
+Comunicación y liderazgo (7663)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Al menos 1 de los siguientes créditos:		
+Ética y legislación profesional(4266)	Crédito total	
+English Language Communication Skills for Industry(7144)	Crédito total	
+Comunicación y liderazgo(7663)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Tecnologías aplicadas a la seguridad de la información (7271)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos (4231)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Aspectos de seguridad de sistemas informáticos(4231)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Tecnologías Blockchain para contratos inteligentes (7716)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 1 (3837)	Crédito total	
+Diseño de aplicaciones 1 (3924)	Crédito parcial	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 1(3837)	Crédito total	
+Diseño de aplicaciones 1(3924)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Tecnologías para Internet de las cosas (7358)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Programación 2 (1743)	Crédito total	
+Taller de tecnologías 1 (7687)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Programación 2(1743)	Crédito total	
+Taller de tecnologías 1(7687)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Teoría de la computación (6452)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito parcial	
+Lógica para computación (6563)	Crédito parcial	
+El crédito total aprobado de 9 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito parcial	
+Lógica para computación(6563)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Teoría de tipos (5330)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Lógica para computación (6563)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Lógica para computación(6563)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos Avanzados de Inteligencia Artificial (8068)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos avanzados en algoritmia (6030)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 1 (1774)	Crédito total	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Estructuras de datos y algoritmos 1(1774)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos avanzados en arquitectura de software (5641)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Arquitectura de software (3851)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito no cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Arquitectura de software(3851)	Crédito total	
+Requisito no cumplido
+-----------------------------------------------------------
+Tópicos avanzados en Bases de datos (8084)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 1 (3837)	Crédito total	
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 1(3837)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos avanzados en Ingeniería de software 1 (6876)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos avanzados en Ingeniería de software 2 (6877)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Ingeniería de software ágil 1 (7674)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Ingeniería de software ágil 1(7674)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos avanzados en Seguridad (8082)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos avanzados en Sistemas de información (8083)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 12 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Tópicos avanzados y aplicados de Matemática (7689)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Álgebra lineal (2103)	Crédito total	
+Cálculo en una variable (7660)	Crédito total	
+El crédito total aprobado de 6 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Álgebra lineal(2103)	Crédito total	
+Cálculo en una variable(7660)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
+Trabajo de desarrollo (6627)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Trabajo de investigación 1 (4891)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Trabajo de investigación 2 (4892)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Trabajo integrador (6435)
+Previas para inscripción o crédito parcial
+Los siguientes créditos:
+
+Bases de datos 2 (3839)	Crédito total	
+Diseño de aplicaciones 2 (6343)	Crédito parcial	
+Teoría de la computación (6452)	Crédito parcial	
+Programación de redes (6498)	Crédito parcial	
+Ingeniería de software ágil 1 (7674)	Crédito parcial	
+El crédito total aprobado de 20 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+Los siguientes créditos:
+
+Bases de datos 2(3839)	Crédito total	
+Diseño de aplicaciones 2(6343)	Crédito parcial	
+Teoría de la computación(6452)	Crédito parcial	
+Programación de redes(6498)	Crédito parcial	
+Ingeniería de software ágil 1(7674)	Crédito parcial	
+Requisito cumplido
+-----------------------------------------------------------
+Transformación digital (8058)
+Previas para inscripción o crédito parcial
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+No tiene previas.
+Requisito cumplido
+-----------------------------------------------------------
+Web mining (3437)
+Previas para inscripción o crédito parcial
+El siguiente crédito:
+
+Bases de datos 1 (3837)	Crédito total	
+El crédito total aprobado de 16 materias del título.
+
+Requisito cumplido
+
+Previas para la aprobación del crédito total
+El siguiente crédito:
+
+Bases de datos 1(3837)	Crédito total	
+Requisito cumplido
+-----------------------------------------------------------
