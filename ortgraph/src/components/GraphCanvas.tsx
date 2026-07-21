@@ -173,6 +173,7 @@ export function GraphCanvas() {
         elementsSelectable={true}
         panOnScroll={false}
         zoomOnScroll={true}
+        zoomOnDoubleClick={false}
       >
         <Background
           variant={BackgroundVariant.Dots}
