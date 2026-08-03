@@ -5,6 +5,11 @@ import { courses } from '../data/courses';
 import { SLOT_OPTIONS } from '../data/slotOptions';
 import { getAllStatuses } from '../lib/prerequisites';
 
+export interface NodePosition {
+  x: number;
+  y: number;
+}
+
 interface ProgressStore {
   approved: Record<string, CreditState>;
   selectedCourseId: string | null;
@@ -12,6 +17,10 @@ interface ProgressStore {
   filterYear: number | null;
   showOnlyAvailable: boolean;
   showElectives: boolean;
+  /** When true, courses can't be dragged around the canvas (default). */
+  nodesLocked: boolean;
+  /** Positions saved after the user drags courses manually. */
+  customPositions: Record<string, NodePosition>;
 
   setCreditState: (courseId: string, state: CreditState) => void;
   setSelectedCourse: (courseId: string | null) => void;
@@ -19,6 +28,9 @@ interface ProgressStore {
   setFilterYear: (year: number | null) => void;
   setShowOnlyAvailable: (show: boolean) => void;
   setShowElectives: (show: boolean) => void;
+  setNodesLocked: (locked: boolean) => void;
+  saveNodePositions: (positions: Record<string, NodePosition>) => void;
+  resetPositions: () => void;
   resetProgress: () => void;
 
   getApprovedMap: () => Map<string, CreditState>;
@@ -40,6 +52,8 @@ export const useProgressStore = create<ProgressStore>()(
       filterYear: null,
       showOnlyAvailable: false,
       showElectives: false,
+      nodesLocked: true,
+      customPositions: {},
 
       setCreditState: (courseId, state) =>
         set(s => ({ approved: { ...s.approved, [courseId]: state } })),
@@ -49,6 +63,12 @@ export const useProgressStore = create<ProgressStore>()(
       setFilterYear:     (year)     => set({ filterYear: year }),
       setShowOnlyAvailable: (show)  => set({ showOnlyAvailable: show }),
       setShowElectives:  (show)     => set({ showElectives: show }),
+      setNodesLocked:    (locked)   => set({ nodesLocked: locked }),
+
+      saveNodePositions: (positions) =>
+        set(s => ({ customPositions: { ...s.customPositions, ...positions } })),
+
+      resetPositions: () => set({ customPositions: {} }),
 
       resetProgress: () => set({ approved: {}, selectedCourseId: null }),
 
@@ -96,7 +116,11 @@ export const useProgressStore = create<ProgressStore>()(
     }),
     {
       name: 'ortgraph-progress',
-      partialize: (state) => ({ approved: state.approved }),
+      partialize: (state) => ({
+        approved: state.approved,
+        nodesLocked: state.nodesLocked,
+        customPositions: state.customPositions,
+      }),
     }
   )
 );

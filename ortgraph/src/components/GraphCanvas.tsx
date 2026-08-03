@@ -16,10 +16,11 @@ import {
   type Edge,
 } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
+import { Move } from 'lucide-react';
 
 import { courses } from '../data/courses';
 import { buildEdges, computeLayout } from '../lib/graphLayout';
-import { useProgressStore } from '../store/useProgressStore';
+import { useProgressStore, type NodePosition } from '../store/useProgressStore';
 import { CourseNode } from './CourseNode';
 import type { CourseStatus } from '../types';
 
@@ -35,7 +36,10 @@ export function GraphCanvas() {
     showOnlyAvailable,
     showElectives,
     hoveredCourseId,
+    nodesLocked,
+    customPositions,
     setSelectedCourse,
+    saveNodePositions,
     getAllStatuses,
   } = useProgressStore();
 
@@ -64,15 +68,20 @@ export function GraphCanvas() {
     [visibleCourses]
   );
 
-  // Build and layout nodes when visible courses change
+  // Build and layout nodes when visible courses change.
+  // A course the user dragged manually keeps its saved position instead of
+  // the automatic semester-column one.
   useEffect(() => {
-    const laidOut = computeLayout(visibleCourses);
+    const laidOut = computeLayout(visibleCourses).map(node => {
+      const custom = customPositions[node.id];
+      return custom ? { ...node, position: { ...custom } } : node;
+    });
     const relevantEdges = ALL_EDGES.filter(
       e => visibleIds.has(e.source) && visibleIds.has(e.target)
     );
     setNodes(laidOut);
     setEdges(relevantEdges);
-  }, [visibleCourses, visibleIds]);
+  }, [visibleCourses, visibleIds, customPositions]);
 
   // Compute sets of highlighted nodes when hovering
   const { predecessors, successors } = useMemo(() => {
@@ -154,13 +163,35 @@ export function GraphCanvas() {
     setSelectedCourse(null);
   }, [setSelectedCourse]);
 
+  // Persist positions after a drag (the 3rd arg covers multi-node drags)
+  const onNodeDragStop = useCallback(
+    (_event: MouseEvent | TouchEvent, _node: Node, draggedNodes: Node[]) => {
+      const moved: Record<string, NodePosition> = {};
+      for (const n of draggedNodes) {
+        moved[n.id] = { x: n.position.x, y: n.position.y };
+      }
+      saveNodePositions(moved);
+    },
+    [saveNodePositions]
+  );
+
   return (
     <div className="flex-1 relative">
+      {!nodesLocked && (
+        <div className="absolute top-3 left-1/2 -translate-x-1/2 z-10 flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-950/80 border border-blue-700/60 backdrop-blur-sm pointer-events-none">
+          <Move size={13} className="text-blue-300" />
+          <span className="text-[11px] text-blue-200 font-medium">
+            Modo edición — arrastrá las materias para reordenarlas
+          </span>
+        </div>
+      )}
       <ReactFlow
+        className={nodesLocked ? undefined : 'rf-draggable-nodes'}
         nodes={nodes}
         edges={styledEdges as Edge[]}
         onNodesChange={onNodesChange}
         onEdgesChange={onEdgesChange}
+        onNodeDragStop={onNodeDragStop}
         nodeTypes={NODE_TYPES}
         onPaneClick={onPaneClick}
         fitView
@@ -168,7 +199,9 @@ export function GraphCanvas() {
         minZoom={0.05}
         maxZoom={2.5}
         proOptions={{ hideAttribution: true }}
-        nodesDraggable={false}
+        nodesDraggable={!nodesLocked}
+        // Matches the click/drag threshold used inside CourseNode
+        nodeDragThreshold={4}
         nodesConnectable={false}
         elementsSelectable={true}
         panOnScroll={false}

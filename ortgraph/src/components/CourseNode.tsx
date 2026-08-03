@@ -13,7 +13,7 @@
  *   completed → green (has total credit)
  */
 
-import { memo, useCallback } from 'react';
+import { memo, useCallback, useRef } from 'react';
 import { Handle, Position, type NodeProps } from '@xyflow/react';
 import type { Course, CourseStatus, CreditState } from '../types';
 import { useProgressStore } from '../store/useProgressStore';
@@ -125,8 +125,22 @@ function CourseNodeComponent({ data, id }: NodeProps) {
   const isDimmed = hoveredCourseId !== null && hoveredCourseId !== id;
   const isSlot = course.id.startsWith('SLOT_');
 
+  // Where the pointer went down — used to tell a click apart from a drag
+  const pressOrigin = useRef<{ x: number; y: number } | null>(null);
+
+  const handlePointerDown = useCallback((e: React.PointerEvent) => {
+    pressOrigin.current = { x: e.clientX, y: e.clientY };
+  }, []);
+
   // Click: cycle state + keep selected for detail panel
-  const handleClick = useCallback(() => {
+  const handleClick = useCallback((e: React.MouseEvent) => {
+    const origin = pressOrigin.current;
+    pressOrigin.current = null;
+
+    // When nodes are unlocked, moving the course fires a click at the end of
+    // the drag — ignore it so dragging never changes the credit state.
+    if (origin && Math.hypot(e.clientX - origin.x, e.clientY - origin.y) > 4) return;
+
     if (!isSlot) {
       setCreditState(course.id, nextCredit);
     }
@@ -139,6 +153,7 @@ function CourseNodeComponent({ data, id }: NodeProps) {
 
   return (
     <div
+      onPointerDown={handlePointerDown}
       onClick={handleClick}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}

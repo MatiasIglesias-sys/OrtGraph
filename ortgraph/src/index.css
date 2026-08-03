@@ -28,6 +28,17 @@ body {
   border-radius: 10px !important;
 }
 
+/* Drag mode: courses become grabbable */
+.rf-draggable-nodes .react-flow__node,
+.rf-draggable-nodes .react-flow__node > * {
+  cursor: grab !important;
+}
+
+.rf-draggable-nodes .react-flow__node.dragging,
+.rf-draggable-nodes .react-flow__node.dragging > * {
+  cursor: grabbing !important;
+}
+
 .react-flow__minimap {
   border-radius: 8px;
   overflow: hidden;

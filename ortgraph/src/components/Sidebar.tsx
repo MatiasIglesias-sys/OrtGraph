@@ -3,7 +3,7 @@
  */
 
 import { useMemo } from 'react';
-import { GraduationCap, Zap, CheckCircle2, RotateCcw, Filter } from 'lucide-react';
+import { GraduationCap, Zap, CheckCircle2, RotateCcw, Filter, Lock, LayoutGrid } from 'lucide-react';
 import { useProgressStore } from '../store/useProgressStore';
 
 export function Sidebar() {
@@ -12,9 +12,13 @@ export function Sidebar() {
     filterYear,
     showOnlyAvailable,
     showElectives,
+    nodesLocked,
+    customPositions,
     setFilterYear,
     setShowOnlyAvailable,
     setShowElectives,
+    setNodesLocked,
+    resetPositions,
     resetProgress,
     getCompletedCount,
     getCoreCount,
@@ -24,6 +28,7 @@ export function Sidebar() {
   const completedCount = useMemo(() => getCompletedCount(), [approved]);
   const coreCount = useMemo(() => getCoreCount(), []);
   const availableCount = useMemo(() => getAvailableCount(), [approved]);
+  const movedCount = Object.keys(customPositions).length;
 
   const progress = coreCount > 0 ? (completedCount / coreCount) * 100 : 0;
 
@@ -111,6 +116,53 @@ export function Sidebar() {
             onChange={setShowElectives}
           />
         </div>
+      </div>
+
+      {/* Layout / drag mode */}
+      <div className="p-4 border-b border-slate-800">
+        <div className="flex items-center gap-2 mb-3">
+          <Lock size={14} className="text-slate-500" />
+          <span className="text-xs font-semibold text-slate-300 uppercase tracking-wide">Organización</span>
+        </div>
+
+        <div className="flex items-center gap-2">
+          <div className="flex-1 min-w-0">
+            <ToggleFilter
+              label="Bloquear materias"
+              checked={nodesLocked}
+              onChange={setNodesLocked}
+            />
+          </div>
+
+          <button
+            onClick={() => {
+              if (movedCount === 0) return;
+              if (confirm('¿Volver al orden automático por semestre?')) resetPositions();
+            }}
+            disabled={movedCount === 0}
+            title="Restaurar el orden automático por semestre"
+            className={[
+              'shrink-0 flex items-center justify-center w-7 h-7 rounded-md border transition-all',
+              movedCount === 0
+                ? 'bg-slate-900 border-slate-800 text-slate-700 cursor-not-allowed'
+                : 'bg-slate-800 border-slate-700 text-slate-400 hover:bg-blue-950/60 hover:border-blue-800/60 hover:text-blue-400 cursor-pointer',
+            ].join(' ')}
+          >
+            <LayoutGrid size={13} />
+          </button>
+        </div>
+
+        <p className="text-[10px] text-slate-600 leading-snug mt-2">
+          {nodesLocked
+            ? 'Desactivá el bloqueo para arrastrar las materias y armar tus semestres.'
+            : 'Arrastrá las materias: las flechas siguen sus posiciones.'}
+        </p>
+
+        {movedCount > 0 && (
+          <p className="text-[10px] text-blue-400/80 mt-1">
+            {movedCount} {movedCount === 1 ? 'materia movida' : 'materias movidas'}
+          </p>
+        )}
       </div>
 
       {/* Legend */}

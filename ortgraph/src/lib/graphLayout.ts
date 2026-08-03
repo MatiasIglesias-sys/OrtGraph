@@ -52,7 +52,6 @@ export function computeLayout(courses: Course[]): Node[] {
           y: MARGIN_Y + rowIdx * ROW_STRIDE,
         },
         data: { course },
-        draggable: false,
       });
     });
   }
@@ -113,6 +112,5 @@ export function buildNodes(courses: Course[]): Node[] {
     type: 'courseNode',
     position: { x: 0, y: 0 },
     data: { course },
-    draggable: false,
   }));
 }
