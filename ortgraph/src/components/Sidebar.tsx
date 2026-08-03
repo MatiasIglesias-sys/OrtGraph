@@ -2,9 +2,13 @@
  * Left sidebar with stats, legend, and filters.
  */
 
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import { GraduationCap, Zap, CheckCircle2, RotateCcw, Filter, Lock, LayoutGrid } from 'lucide-react';
 import { useProgressStore } from '../store/useProgressStore';
+import { ConfirmDialog } from './ConfirmDialog';
+
+/** Which confirmation dialog is currently open, if any */
+type PendingAction = 'resetPositions' | 'resetProgress' | null;
 
 export function Sidebar() {
   const {
@@ -29,6 +33,8 @@ export function Sidebar() {
   const coreCount = useMemo(() => getCoreCount(), []);
   const availableCount = useMemo(() => getAvailableCount(), [approved]);
   const movedCount = Object.keys(customPositions).length;
+
+  const [pendingAction, setPendingAction] = useState<PendingAction>(null);
 
   const progress = coreCount > 0 ? (completedCount / coreCount) * 100 : 0;
 
@@ -137,7 +143,7 @@ export function Sidebar() {
           <button
             onClick={() => {
               if (movedCount === 0) return;
-              if (confirm('¿Volver al orden automático por semestre?')) resetPositions();
+              setPendingAction('resetPositions');
             }}
             disabled={movedCount === 0}
             title="Restaurar el orden automático por semestre"
@@ -207,15 +213,38 @@ export function Sidebar() {
       {/* Reset */}
       <div className="p-4 mt-auto">
         <button
-          onClick={() => {
-            if (confirm('¿Resetear todo el progreso?')) resetProgress();
-          }}
+          onClick={() => setPendingAction('resetProgress')}
           className="w-full flex items-center justify-center gap-2 px-3 py-2 rounded-lg bg-slate-800 hover:bg-red-950/60 text-slate-500 hover:text-red-400 border border-slate-700 hover:border-red-800/50 text-xs font-medium transition-all"
         >
           <RotateCcw size={13} />
           Resetear progreso
         </button>
       </div>
+
+      {pendingAction === 'resetPositions' && (
+        <ConfirmDialog
+          title="¿Volver al orden automático?"
+          message="Las materias que moviste vuelven a su columna de semestre. Tu progreso no se toca."
+          onConfirm={() => {
+            resetPositions();
+            setPendingAction(null);
+          }}
+          onCancel={() => setPendingAction(null)}
+        />
+      )}
+
+      {pendingAction === 'resetProgress' && (
+        <ConfirmDialog
+          title="¿Resetear todo el progreso?"
+          message="Se borran todas las materias marcadas como crédito parcial o total. No se puede deshacer."
+          tone="danger"
+          onConfirm={() => {
+            resetProgress();
+            setPendingAction(null);
+          }}
+          onCancel={() => setPendingAction(null)}
+        />
+      )}
     </aside>
   );
 }
